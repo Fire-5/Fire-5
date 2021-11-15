@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emelyanov Alexandr aka @Fire-5
 
-- 👀 I’m interested in NN, Python and GameDev.
+- 👀 I’m interested in ANN, Python and GameDev.
 - 📫 How to reach me : alexande.krasnot@gmail.com
 
 <!---
