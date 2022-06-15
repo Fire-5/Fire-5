@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emelyanov Alexandr aka @Fire-5
 
 - 👀 I’m interested in ANN, Python and GameDev.
-- 📫 How to reach me : alexande.krasnot@gmail.com
+- 📫 How to reach me : alexandr.krasnot@gmail.com
 
 <!---
 Fire-5/Fire-5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
